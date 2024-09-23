@@ -1,5 +1,5 @@
 Analisis Kebutuhan untuk Aplikasi Manajemen Tugas
-1.	Analisis Kebutuhan dari Sisi Pengguna (User)
+1. Analisis Kebutuhan dari Sisi Pengguna (User)
     Fungsionalitas:
     - Fitur yang digunakan:
       a. Menambah, mengedit, dan menghapus tugas.
@@ -26,7 +26,7 @@ Analisis Kebutuhan untuk Aplikasi Manajemen Tugas
       Informasi pribadi pengguna, baik itu tugas maupun catatan pribadi.
     - Cara melindungi:
       Implementasi autentikasi pengguna dan enkripsi data sensitif.
-2.	Analisis Kebutuhan dari Sisi Administrator (Admin)
+2. Analisis Kebutuhan dari Sisi Administrator (Admin)
     Pengelolahan data:
     - Manajemen:
       Sistem untuk mengelola data pengguna dan tugas dengan antarmuka dashboard.
@@ -40,14 +40,14 @@ Analisis Kebutuhan untuk Aplikasi Manajemen Tugas
       Arsitektur aplikasi yang fleksibel untuk menambahkan fitur baru di masa depan.
     - Pengawasan:
       Sistem monitoring untuk mendeteksi masalah teknis dan kinerja aplikasi.
-3.	Teknik pengumpulan data
+3. Teknik pengumpulan data
     - Observasi
       Mengamati pengguna saat penggunaan aplikasi untuk memahami kebiasaan mereka.
     - Wawancara
       Mewawancarai pengguna terkait kebutuhan dan harapan mengenai aplikasi.
     - Survei
       Membuat kuesioner untuk mengumpulkan data tentang fitur yang diinginkan pengguna.
-4.	Kesimpulan
+4. Kesimpulan
     Analisis kebutuhan adalah langkah awal yang penting dalam pengembangan aplikasi manajemen tugas. 
     Dengan melakukan analisis yang menyeluruh, Anda dapat memastikan bahwa aplikasi yang dibangun 
     akan memenuhi kebutuhan pengguna dan mendukung produktivitas mereka secara efektif.
