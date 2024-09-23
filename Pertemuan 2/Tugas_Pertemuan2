@@ -7,15 +7,18 @@ Analisis Kebutuhan untuk Aplikasi Manajemen Tugas
       c.	Menandai tugas selesai.
       d.	Mengurutkan tugas berdasarkan tanggal dan prioritas.
     -	Alur kerja pengguna:
-      Dimulai dengan pengguna yang membuka aplikasi, menambahkan tugas baru, menetapkan tenggat, dan menandai tugas saat selesai.
+      Dimulai dengan pengguna yang membuka aplikasi, menambahkan tugas baru, menetapkan tenggat, 
+      dan menandai tugas saat selesai.
     Antarmuka pengguna (User Interface):
     -	Tampilan aplikasi:
-      Tampilan yang sederhana dan intuitif dengan navigasi yang mudah dan menggunakan warna yang kontras untuk membedakan antara tugas yang selesai dan yang belum selesai.
+      Tampilan yang sederhana dan intuitif dengan navigasi yang mudah dan menggunakan warna yang 
+      kontras untuk membedakan antara tugas yang selesai dan yang belum selesai.
     -	Standar desain:
       Mengikuti pedoman desain responsif agar dapat digunakan di perangkat mobile dan desktop.
     Kinerja:
     -	Respon aplikasi:
-      Saat menambah, mengedit, atau menghapus tugas, aplikasi harus merespon dalam waktu kurang dari 3 detik.
+      Saat menambah, mengedit, atau menghapus tugas, aplikasi harus merespon dalam waktu kurang 
+      dari 3 detik.
     -	Skalabilitas:
       Aplikasi mampu menangani 500 tugas tanpa penurunan peforma.
     Keamanan:
@@ -30,7 +33,8 @@ Analisis Kebutuhan untuk Aplikasi Manajemen Tugas
     -	Backup:
       Prosedur backup data secara otomatis setiap hari dan manual saat diperlukan.
     Laporan: 
-    Laporan yang dibutuhkan: Laporan penggunaan aplikasi, termasuk jumlah tugas yang ditambahkan, diselesaikan, dan yang belum selesai.
+    Laporan yang dibutuhkan: Laporan penggunaan aplikasi, termasuk jumlah tugas yang ditambahkan, 
+    diselesaikan, dan yang belum selesai.
     Pengembangan dan Pemeliharaan:
     -	Pembaruan:
       Arsitektur aplikasi yang fleksibel untuk menambahkan fitur baru di masa depan.
@@ -44,4 +48,6 @@ Analisis Kebutuhan untuk Aplikasi Manajemen Tugas
     -	Survei
       Membuat kuesioner untuk mengumpulkan data tentang fitur yang diinginkan pengguna.
 4.	Kesimpulan
-    Analisis kebutuhan adalah langkah awal yang penting dalam pengembangan aplikasi manajemen tugas. Dengan melakukan analisis yang menyeluruh, Anda dapat memastikan bahwa aplikasi yang dibangun akan memenuhi kebutuhan pengguna dan mendukung produktivitas mereka secara efektif.
+    Analisis kebutuhan adalah langkah awal yang penting dalam pengembangan aplikasi manajemen tugas. 
+    Dengan melakukan analisis yang menyeluruh, Anda dapat memastikan bahwa aplikasi yang dibangun 
+    akan memenuhi kebutuhan pengguna dan mendukung produktivitas mereka secara efektif.
