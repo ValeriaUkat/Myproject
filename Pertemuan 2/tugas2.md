@@ -2,10 +2,10 @@
 ## 1. Analisis Kebutuhan dari Sisi Pengguna (User)
 ### Fungsionalitas:
 -	Fitur yang digunakan:
-a.	Menambah, mengedit, dan menghapus tugas.
-b.	Menetapkan tenggat waktu dan pengingat (notifikasi).
-c.	Menandai tugas selesai.
-d.	Mengurutkan tugas berdasarkan tanggal dan prioritas.
+  1. Menambah, mengedit, dan menghapus tugas.
+  2. Menetapkan tenggat waktu dan pengingat (notifikasi).
+  3. Menandai tugas selesai.
+  4. Mengurutkan tugas berdasarkan tanggal dan prioritas.
 -	Alur kerja pengguna:
 Dimulai dengan pengguna yang membuka aplikasi, menambahkan tugas baru, menetapkan tenggat, dan menandai tugas saat selesai.
 ### Antarmuka pengguna (User Interface):
