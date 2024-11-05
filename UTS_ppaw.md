@@ -1,4 +1,4 @@
-## 1. Nama Aplikasi Manajemen Tugas
+## 1. Nama Aplikasi: Manajemen Tugas
 ## 2. Fitur Aplikasi:
    ### - Sisi User:
    a) Halaman awal: berisi tampilan awal aplikasi. 
