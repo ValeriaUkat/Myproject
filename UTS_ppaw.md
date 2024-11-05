@@ -12,7 +12,7 @@
    c) Halaman backup: tampilan untuk backup data dan melihat riwayat backup.
 ## 3. Rencana Jumlah tabel: 6
 ## 4. Rencana Kegiatan:
-- Kegiatan 8 (12-18 Nov 2024): Membuat tabel komentar dan notofikasi.
+- Kegiatan 8 (12-18 Nov 2024): Membuat tabel komentar dan notIfikasi.
 - Kegiatan 9 (19-25 Nov 2024): Melanjutkan pengembangan fitur manajemen tugas (tambah, edit, hapus).
 - Kegiatan 10 (26 Nov - 2 Des 2024): Mengembangkan fitur penugasan tugas dan komentar.
 - Kegiatan 11 (3-9 Des 2024): Mulai mengimplementasikan sistem notifikasi.
